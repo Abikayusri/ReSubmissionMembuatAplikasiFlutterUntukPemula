@@ -191,6 +191,8 @@ class MovieDetailScreen extends StatelessWidget {
                       ),
                     ),
                   ),
+
+                  SizedBox(height: 32),
                 ],
               ),
             ),
