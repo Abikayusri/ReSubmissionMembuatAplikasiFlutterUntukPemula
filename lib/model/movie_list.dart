@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+// TODO: Disarankan dihapus oleh reviewer
 MovieModel movieModelFromJson(String str) =>
     MovieModel.fromJson(json.decode(str));
 
